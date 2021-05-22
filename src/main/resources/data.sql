@@ -7,4 +7,14 @@ INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Lula Le
 INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Dick Vigarista', '90920382029', 5465.32, TIMESTAMP WITH TIME ZONE '1955-05-30T00:00:00.00000Z', 0);
 INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Leão da Montanha', '24333162009', 788945.23, TIMESTAMP WITH TIME ZONE '1966-06-16T00:00:00.00000Z', 2);
 INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Formiga Atômica', '52215823097', 781654.25, TIMESTAMP WITH TIME ZONE '1978-09-08T00:00:00.00000Z', 182);
-INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Jonny Quest ', '28872498007', 995571.87, TIMESTAMP WITH TIME ZONE '1964-04-24T00:00:00.00000Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Jonny Quest', '28872498007', 995571.87, TIMESTAMP WITH TIME ZONE '1964-04-24T00:00:00.00000Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('He-Man', '04838992084', 2540.33, TIMESTAMP WITH TIME ZONE '1985-09-10T00:00:00.00000Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Scooby Doo', '97689134017', 1560.12, TIMESTAMP WITH TIME ZONE '1960-01-02T00:00:00.00000Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Tom', '31320762018', 9875.23, TIMESTAMP WITH TIME ZONE '1963-11-11T00:00:00.00000Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Jerry', '21312963042', 1290.98, TIMESTAMP WITH TIME ZONE '1963-11-11T00:00:00.00000Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('wally gator', '29373973010', 6000.00, TIMESTAMP WITH TIME ZONE '1957-02-02T00:00:00.00000Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('George Jetson', '82811353011', 995571.87, TIMESTAMP WITH TIME ZONE '1972-02-13T00:00:00.00000Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Tutubarão', '73009197071', 560.01, TIMESTAMP WITH TIME ZONE '1955-08-01T00:00:00.00000Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Fred Flintstone', '76808103038', 2500.23, TIMESTAMP WITH TIME ZONE '1961-04-28T00:00:00.00000Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Pepe Legal', '17243066003', 9000.00, TIMESTAMP WITH TIME ZONE '1970-03-12T00:00:00.00000Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Bob Pai', '34689591091', 7000.00, TIMESTAMP WITH TIME ZONE '1969-12-27T00:00:00.00000Z', 1);
